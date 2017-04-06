@@ -1,3 +1,8 @@
+# dhartford fork of excellent urlrewriter
+
+This fork just uses the patches that were ready for 4.0.5 but never released, and make the project buildable using normal maven install/maven package mechanics.
+
+----
 
 # UrlRewriteFilter
 
